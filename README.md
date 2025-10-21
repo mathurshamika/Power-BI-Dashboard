@@ -1,1 +1,1 @@
-nteractive Power BI dashboard analyzing Blinkit’s sales performance across outlet types, item categories, and regions. Showcases KPIs like total sales ($1.2M), average sales, and customer ratings with dynamic filters for outlet size, tier, and item type.
+Interactive Power BI dashboard analyzing Blinkit’s sales performance across outlet types, item categories, and regions. Showcases KPIs like total sales ($1.2M), average sales, and customer ratings with dynamic filters for outlet size, tier, and item type.
